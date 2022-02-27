@@ -1,0 +1,32 @@
+{
+    "songs": [
+      {
+        "id": 1,
+        "title": "Snow",
+        "album": "Stadium Arcadium",
+        "band": "Red Hot Chilli Peppers"
+
+      },
+      {
+        "id": 2,
+        "title": "All the Small Things",
+        "album": "Enema of State",
+        "band": "Blink-182"
+
+      },
+      {
+        "id": 3,
+        "title": "The Kids Aren't Alright",
+        "album": "Americana",
+        "band": "The OffSpring"
+
+      },
+      {
+        "id": 4,
+        "title": "Rosenrot",
+        "album": "Rosenrot",
+        "band": "Rammstein"
+
+      }
+    ]
+  }
